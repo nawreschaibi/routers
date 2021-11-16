@@ -1,0 +1,11 @@
+.app{display: flex;
+  justify-content: space-around
+  ;
+}
+.nes{display: flex;
+  background-color: blue;
+  align-items: center;
+
+}
+  
+
